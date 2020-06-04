@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Ballard-React-Portfolio/static/css/main.d21d4aa8.chunk.css",
+    "main.js": "/Ballard-React-Portfolio/static/js/main.6a595e65.chunk.js",
+    "main.js.map": "/Ballard-React-Portfolio/static/js/main.6a595e65.chunk.js.map",
+    "runtime-main.js": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js",
+    "runtime-main.js.map": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js.map",
+    "static/js/2.7997b201.chunk.js": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js",
+    "static/js/2.7997b201.chunk.js.map": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.map",
+    "index.html": "/Ballard-React-Portfolio/index.html",
+    "precache-manifest.68c26a6de96745dbcbeaf3e01c74abc0.js": "/Ballard-React-Portfolio/precache-manifest.68c26a6de96745dbcbeaf3e01c74abc0.js",
+    "service-worker.js": "/Ballard-React-Portfolio/service-worker.js",
+    "static/css/main.d21d4aa8.chunk.css.map": "/Ballard-React-Portfolio/static/css/main.d21d4aa8.chunk.css.map",
+    "static/js/2.7997b201.chunk.js.LICENSE.txt": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt",
+    "static/media/Contact.scss": "/Ballard-React-Portfolio/static/media/astronaut.c8e0dbe5.jpg_fit=scale",
+    "static/media/crimeradar.PNG": "/Ballard-React-Portfolio/static/media/crimeradar.9f3c5b80.PNG",
+    "static/media/eatdaburger.png": "/Ballard-React-Portfolio/static/media/eatdaburger.45a95aa4.png",
+    "static/media/employeetracker.png": "/Ballard-React-Portfolio/static/media/employeetracker.dea38a93.png",
+    "static/media/newsflash.PNG": "/Ballard-React-Portfolio/static/media/newsflash.8daad608.PNG",
+    "static/media/profile-photo.jpg": "/Ballard-React-Portfolio/static/media/profile-photo.5b425f56.jpg",
+    "static/media/rendezvous.PNG": "/Ballard-React-Portfolio/static/media/rendezvous.1c374c4d.PNG",
+    "static/media/Footer.scss": "/Ballard-React-Portfolio/static/media/star-background.de2225ff.jpg",
+    "static/media/weatherdashboard.PNG": "/Ballard-React-Portfolio/static/media/weatherdashboard.fb71a5cd.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872c0f1d.js",
+    "static/js/2.7997b201.chunk.js",
+    "static/css/main.d21d4aa8.chunk.css",
+    "static/js/main.6a595e65.chunk.js"
+  ]
+}
