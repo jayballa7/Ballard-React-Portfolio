@@ -30,7 +30,7 @@ function HomePage() {
                     </div>
                    <div className="resume-box boxEffects">
                        <p className = "hp-text">Resume</p>
-                       <p className = "hide-a"><a href = "https://docs.google.com/document/d/1MbL5DzF0dkqPVtUqBTWfLfdcuXQ1xqqKumvSsX3QeiU/edit?usp=sharing" target="_blank" style={{textDecoration:"none"}}>Need a dev?</a></p>
+                       <p className = "hide-a"><a href = "https://drive.google.com/file/d/1NjuRm-ABPkx0XD6PbPwc_d8N5vCaxnsL/view?usp=sharing" target="_blank" style={{textDecoration:"none"}}>Need a dev?</a></p>
                     </div>
         </div>
     )
