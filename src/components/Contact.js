@@ -10,21 +10,11 @@ function Contact() {
             <Header />
             <div className="contact-content">
 
-            {/* <div class="foreground"></div>
-
-<div class="midground">
-  <div class="tuna"></div>
-</div> */}
-
-<div id='stars'></div>
-<div id='stars2'></div>
-<div id='stars3'></div>
+<div class="background">
 
 
-<div class="background"></div>              
-                {/* <div className = "moonbox">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/moon2.png" className = "moon" alt=""></img>
-                </div> */}
+</div>              
+
                 <div className = "contact-card">
                     <h2>Contact Information</h2>
                         <div className="separator"></div> 
@@ -33,10 +23,13 @@ function Contact() {
                     <p>Email: jenn_ballard7@hotmail.com</p>
                     <p>Located in Renton, Washington</p>
                 </div>
-                <div className = "contact-footer">
-                    <Footer />
-                </div>
+
             </div>
+
+            <div className = "contact-footer">
+                    <Footer />
+                </div>  
+
         </div>
     )
 }
