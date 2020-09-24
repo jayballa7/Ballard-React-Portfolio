@@ -23,8 +23,8 @@ function Contact() {
 		<div className="contact-card-content">
 			<h1>Contact Information</h1>
             <p>Phone Number: 425-443-2792</p>
-                    <p>Email: jenn_ballard7@hotmail.com</p>
-                    <p>Located in Renton, Washington</p>
+            <p>Email: jenn_ballard7@hotmail.com</p>
+            <p>Located in Renton, Washington</p>
 		</div>
 	</div>
 
