@@ -30,7 +30,7 @@ List of features ready:
 
 
 # Status
-Never-ending. Many features to add. Also need to work on speed and responsiveness for all media.
+Need to work more on responsiveness of the site.
 
 
 # Contact
