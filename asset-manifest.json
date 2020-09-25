@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ballard-React-Portfolio/static/css/main.1d7a351f.chunk.css",
+    "main.css": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css",
     "main.js": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js",
     "main.js.map": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js.map",
     "runtime-main.js": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js",
@@ -8,9 +8,9 @@
     "static/js/2.7997b201.chunk.js": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js",
     "static/js/2.7997b201.chunk.js.map": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.map",
     "index.html": "/Ballard-React-Portfolio/index.html",
-    "precache-manifest.1b7f196b465cba63395946b05f3328d2.js": "/Ballard-React-Portfolio/precache-manifest.1b7f196b465cba63395946b05f3328d2.js",
+    "precache-manifest.e7a30a2c2f997b71d6699f73e080959d.js": "/Ballard-React-Portfolio/precache-manifest.e7a30a2c2f997b71d6699f73e080959d.js",
     "service-worker.js": "/Ballard-React-Portfolio/service-worker.js",
-    "static/css/main.1d7a351f.chunk.css.map": "/Ballard-React-Portfolio/static/css/main.1d7a351f.chunk.css.map",
+    "static/css/main.50d937bb.chunk.css.map": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css.map",
     "static/js/2.7997b201.chunk.js.LICENSE.txt": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt",
     "static/media/crimeradar.PNG": "/Ballard-React-Portfolio/static/media/crimeradar.9f3c5b80.PNG",
     "static/media/eatdaburger.png": "/Ballard-React-Portfolio/static/media/eatdaburger.45a95aa4.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.872c0f1d.js",
     "static/js/2.7997b201.chunk.js",
-    "static/css/main.1d7a351f.chunk.css",
+    "static/css/main.50d937bb.chunk.css",
     "static/js/main.eeef988a.chunk.js"
   ]
 }
