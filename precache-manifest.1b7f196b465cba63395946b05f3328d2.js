@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e80fb3da17e6e599b07f3e21c0056572",
+    "revision": "a63a6e198da76478fcb3d45bcd0b95b8",
     "url": "/Ballard-React-Portfolio/index.html"
   },
   {
-    "revision": "5caae6830d2a6004391a",
-    "url": "/Ballard-React-Portfolio/static/css/main.67b5adfe.chunk.css"
+    "revision": "e66766eb6e2978ef28ce",
+    "url": "/Ballard-React-Portfolio/static/css/main.1d7a351f.chunk.css"
   },
   {
     "revision": "1b5c47fa5818b2f4985f",
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5caae6830d2a6004391a",
+    "revision": "e66766eb6e2978ef28ce",
     "url": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js"
   },
   {
     "revision": "8abed7e04f1452eba706",
     "url": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js"
-  },
-  {
-    "revision": "c8e0dbe55f1f90026171727c5e756954",
-    "url": "/Ballard-React-Portfolio/static/media/astronaut.c8e0dbe5.jpg_fit=scale"
   },
   {
     "revision": "9f3c5b80a2253bcf6393143f83df01a5",
