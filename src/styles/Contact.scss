@@ -10,237 +10,267 @@
     color: white;
     font-family: 'Dosis', sans-serif;
     display: grid;
+    // grid-template-columns: 1fr 1fr;
+    // grid-template-rows: 75vh 1fr;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 75vh 1fr;
     justify-items: center;
     align-items: center;
 }
 
-.contact-background {
-    margin-left: 90%;
-	display: -webkit-box;
-	display: -ms-flexbox;
-	display: flex;
-	-webkit-box-pack: center;
-	-ms-flex-pack: center;
-	justify-content: center;
-	-webkit-box-align: center;
-	-ms-flex-align: center;
-	align-items: center;
-	-webkit-perspective: 1000px;
-	perspective: 1000px;
-	-webkit-transform-style: preserve-3d;
-	transform-style: preserve-3d;
-	position: relative;
+.space-kitty {
+    height: 50%;
+    width: 50%;
+    margin-left: 15%;
 }
 
-.contact-card-container {
-	min-width: 550px;
-	min-height: 350px;
-	border-radius: 20px;
-	position: relative;
-	-webkit-transition: 1.5s ease-in-out;
-	transition: 1.5s ease-in-out;
-    transform-style: preserve-3d;
+.contact-div {
+    margin-right: 20%;
 }
 
-.side {
-	position: absolute;
-	text-align: center;
-	width: 100%;
-	height: 100%;
-	padding: 20px 50px;
-	color: #fff;
-	transform-style: preserve-3d;
-	backface-visibility: hidden;
-	border-radius: 20px;
-}
-.contact-card-content {
-	transform: translatez(70px) scale(0.8);
-	line-height: 1.5em;
-}
-.contact-card-content h1 {
-	position: relative;
-}
-.contact-card-content p {
-	margin-top: 12%;
-    line-height: 1.8em;
-    font-size: 1.5em;
-    font-weight: bold;
-}
-.contact-card-content h1:before {
-	content: "";
-	position: absolute;
-	bottom: -20px;
-	height: 3px;
-	background-color: rgb(141, 4, 196);
-	width: 70px;
-	left: 50%;
-	transform: translateX(-50%);
-}
-.front {
-	z-index: 2;
-	background-size: 100vh;
-	background-size: cover;
-    background-image: url('../img/space-kitty-2.jpg');
-}
-.back {
-	transform: rotateY(180deg);
-	z-index: 0;
-    padding-top: 10px;
-    margin-left: -20%;
-    background-image: url('../img/space-cat.png');
-}
-.contact-card-container:hover {
-	-webkit-transform: rotateY(180deg);
-	transform: rotateY(180deg);
-}
+// @import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
 
-.back h1 {
-	margin: 0;
-}
+// .contact-wrapper {
+//     height: 100vh;
+//     background-color: rgb(6, 1, 22);
+// }
+
+// .contact-content {
+//     background-color: black;
+//     color: white;
+//     font-family: 'Dosis', sans-serif;
+//     display: grid;
+//     grid-template-columns: 1fr 1fr;
+//     grid-template-rows: 75vh 1fr;
+//     justify-items: center;
+//     align-items: center;
+// }
+
+// .contact-background {
+//     margin-left: 90%;
+// 	display: -webkit-box;
+// 	display: -ms-flexbox;
+// 	display: flex;
+// 	-webkit-box-pack: center;
+// 	-ms-flex-pack: center;
+// 	justify-content: center;
+// 	-webkit-box-align: center;
+// 	-ms-flex-align: center;
+// 	align-items: center;
+// 	-webkit-perspective: 1000px;
+// 	perspective: 1000px;
+// 	-webkit-transform-style: preserve-3d;
+// 	transform-style: preserve-3d;
+// 	position: relative;
+// }
+
+// .contact-card-container {
+// 	min-width: 550px;
+// 	min-height: 350px;
+// 	border-radius: 20px;
+// 	position: relative;
+// 	-webkit-transition: 1.5s ease-in-out;
+// 	transition: 1.5s ease-in-out;
+//     transform-style: preserve-3d;
+// }
+
+// .side {
+// 	position: absolute;
+// 	text-align: center;
+// 	width: 100%;
+// 	height: 100%;
+// 	padding: 20px 50px;
+// 	color: #fff;
+// 	transform-style: preserve-3d;
+// 	backface-visibility: hidden;
+// 	border-radius: 20px;
+// }
+// .contact-card-content {
+// 	transform: translatez(70px) scale(0.8);
+// 	line-height: 1.5em;
+// }
+// .contact-card-content h1 {
+// 	position: relative;
+// }
+// .contact-card-content p {
+// 	margin-top: 12%;
+//     line-height: 1.8em;
+//     font-size: 1.5em;
+//     font-weight: bold;
+// }
+// .contact-card-content h1:before {
+// 	content: "";
+// 	position: absolute;
+// 	bottom: -20px;
+// 	height: 3px;
+// 	background-color: rgb(141, 4, 196);
+// 	width: 70px;
+// 	left: 50%;
+// 	transform: translateX(-50%);
+// }
+// .front {
+// 	z-index: 2;
+// 	background-size: 100vh;
+// 	background-size: cover;
+//     background-image: url('../img/space-kitty-2.jpg');
+// }
+// .back {
+// 	transform: rotateY(180deg);
+// 	z-index: 0;
+//     padding-top: 10px;
+//     margin-left: -20%;
+//     background-image: url('../img/space-cat.png');
+// }
+// .contact-card-container:hover {
+// 	-webkit-transform: rotateY(180deg);
+// 	transform: rotateY(180deg);
+// }
+
+// .back h1 {
+// 	margin: 0;
+// }
 
 
-  @media only screen 
-  and (min-device-width : 350px) 
-  and (max-device-width : 812px)
-  and (-webkit-device-pixel-ratio : 3) {
+//   @media only screen 
+//   and (min-device-width : 350px) 
+//   and (max-device-width : 812px)
+//   and (-webkit-device-pixel-ratio : 3) {
 
-    // .contact-wrapper {
-    //     height: 100vh;
-    //     // background-image: url('../img/astronaut.jpg_fit=scale');
-    //     // background-size: cover;
-    // }
-    .contact-content {
-        height: 80vh;
-        background-size: 600px 700px;
-        // background-repeat: no-repeat;
-        color: white;
-        font-family: 'Dosis', sans-serif;
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 30vh 30vh 20vh;
-        justify-items: center;
-        align-items: center;
-    }
+//     // .contact-wrapper {
+//     //     height: 100vh;
+//     //     // background-image: url('../img/astronaut.jpg_fit=scale');
+//     //     // background-size: cover;
+//     // }
+//     .contact-content {
+//         height: 80vh;
+//         background-size: 600px 700px;
+//         // background-repeat: no-repeat;
+//         color: white;
+//         font-family: 'Dosis', sans-serif;
+//         display: grid;
+//         grid-template-columns: 1fr;
+//         grid-template-rows: 30vh 30vh 20vh;
+//         justify-items: center;
+//         align-items: center;
+//     }
     
-    .contact-footer {
-        width: 100%;
-        grid-column: 1;
-        grid-row: 4;
-    }
+//     .contact-footer {
+//         width: 100%;
+//         grid-column: 1;
+//         grid-row: 4;
+//     }
 
-  }
+//   }
 
-  //iphone 6/7/8
-@media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 667px) {
+//   //iphone 6/7/8
+// @media only screen 
+// and (min-device-width : 375px) 
+// and (max-device-width : 667px) {
 
-    .contact-content {
-        background-color: black;
-        color: white;
-        font-family: 'Dosis', sans-serif;
-        display: grid;
-        grid-template-columns: 40vw;
-        grid-template-rows: 60vh 20vh;
-        justify-items: center;
-        align-items: center;
-    }
+//     .contact-content {
+//         background-color: black;
+//         color: white;
+//         font-family: 'Dosis', sans-serif;
+//         display: grid;
+//         grid-template-columns: 40vw;
+//         grid-template-rows: 60vh 20vh;
+//         justify-items: center;
+//         align-items: center;
+//     }
 
-    .contact-footer {
-        width: 100%;
-        grid-column: 1;
-        grid-row: 2;
-    }
+//     .contact-footer {
+//         width: 100%;
+//         grid-column: 1;
+//         grid-row: 2;
+//     }
     
-    .contact-background {
-        // margin-left: 120%;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
-        -webkit-perspective: 1000px;
-        perspective: 1000px;
-        -webkit-transform-style: preserve-3d;
-        transform-style: preserve-3d;
-        position: relative;
-    }
+//     .contact-background {
+//         // margin-left: 120%;
+//         display: -webkit-box;
+//         display: -ms-flexbox;
+//         display: flex;
+//         -webkit-box-pack: center;
+//         -ms-flex-pack: center;
+//         justify-content: center;
+//         -webkit-box-align: center;
+//         -ms-flex-align: center;
+//         align-items: center;
+//         -webkit-perspective: 1000px;
+//         perspective: 1000px;
+//         -webkit-transform-style: preserve-3d;
+//         transform-style: preserve-3d;
+//         position: relative;
+//     }
     
-    .contact-card-container {
-        // min-width: 550px;
-        // min-height: 350px;
-        min-width: 250px;
-        min-height: 200px;
-        border-radius: 20px;
-        position: relative;
-        -webkit-transition: 1.5s ease-in-out;
-        transition: 1.5s ease-in-out;
-        transform-style: preserve-3d;
-    }
+//     .contact-card-container {
+//         // min-width: 550px;
+//         // min-height: 350px;
+//         min-width: 250px;
+//         min-height: 200px;
+//         border-radius: 20px;
+//         position: relative;
+//         -webkit-transition: 1.5s ease-in-out;
+//         transition: 1.5s ease-in-out;
+//         transform-style: preserve-3d;
+//     }
     
-    .side {
-        position: absolute;
-        text-align: center;
-        width: 100%;
-        height: 100%;
-        padding: 20px 50px;
-        color: #fff;
-        transform-style: preserve-3d;
-        backface-visibility: hidden;
-        border-radius: 20px;
-    }
-    .contact-card-content {
-        transform: translatez(70px) scale(0.8);
-        line-height: 1.5em;
-    }
-    .contact-card-content h1 {
-        position: relative;
-    }
-    .contact-card-content p {
-        margin-top: 12%;
-        line-height: 1.2em;
-        font-size: 1em;
-        font-weight: bold;
-    }
-    .contact-card-content h1:before {
-        content: "";
-        position: absolute;
-        bottom: -20px;
-        height: 3px;
-        background-color: rgb(141, 4, 196);
-        width: 70px;
-        left: 50%;
-        transform: translateX(-50%);
-    }
-    .front {
-        z-index: 2;
-        background-size: 100vh;
-        background-size: cover;
-        background-image: url('../img/space-kitty-2.jpg');
-        margin-left: -5%;
-    }
-    .back {
-        // background-color: #333;
-        transform: rotateY(180deg);
-        z-index: 0;
-        padding-top: 10px;
-        margin-left: -41%;
-        background-image: url('../img/space-cat.png');
-    }
-    .contact-card-container:hover {
-        -webkit-transform: rotateY(180deg);
-        transform: rotateY(180deg);
-    }
+//     .side {
+//         position: absolute;
+//         text-align: center;
+//         width: 100%;
+//         height: 100%;
+//         padding: 20px 50px;
+//         color: #fff;
+//         transform-style: preserve-3d;
+//         backface-visibility: hidden;
+//         border-radius: 20px;
+//     }
+//     .contact-card-content {
+//         transform: translatez(70px) scale(0.8);
+//         line-height: 1.5em;
+//     }
+//     .contact-card-content h1 {
+//         position: relative;
+//     }
+//     .contact-card-content p {
+//         margin-top: 12%;
+//         line-height: 1.2em;
+//         font-size: 1em;
+//         font-weight: bold;
+//     }
+//     .contact-card-content h1:before {
+//         content: "";
+//         position: absolute;
+//         bottom: -20px;
+//         height: 3px;
+//         background-color: rgb(141, 4, 196);
+//         width: 70px;
+//         left: 50%;
+//         transform: translateX(-50%);
+//     }
+//     .front {
+//         z-index: 2;
+//         background-size: 100vh;
+//         background-size: cover;
+//         background-image: url('../img/space-kitty-2.jpg');
+//         margin-left: -5%;
+//     }
+//     .back {
+//         // background-color: #333;
+//         transform: rotateY(180deg);
+//         z-index: 0;
+//         padding-top: 10px;
+//         margin-left: -41%;
+//         background-image: url('../img/space-cat.png');
+//     }
+//     .contact-card-container:hover {
+//         -webkit-transform: rotateY(180deg);
+//         transform: rotateY(180deg);
+//     }
     
-    .back h1 {
-        margin: 0;
-    }
+//     .back h1 {
+//         margin: 0;
+//     }
     
-}
+// }
   

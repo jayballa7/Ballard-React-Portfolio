@@ -2,6 +2,7 @@ import React from 'react';
 import '../styles/Contact.scss';
 import Header from "../components/Header.js";
 import Footer from "../components/Footer.js";
+import SpaceKitty from "../img/space-kitty-2.jpg";
 
 
 function Contact() {
@@ -11,7 +12,20 @@ function Contact() {
             <Header />
             <div className="contact-content">
 
-<div className = "contact-background">
+            <div className="picture-block">
+            <img src={SpaceKitty} className = "space-kitty"></img>
+            </div>
+
+            <div className="contact-div">
+                <h1>Contact Me</h1>
+                    <p>Phone Number: 425-443-2792</p>
+                    <p>Email: jenn_ballard7@hotmail.com</p>
+                    <p>Located in Renton, Washington</p>
+            </div>
+            
+
+
+{/* <div className = "contact-background">
 
 <div className="contact-card-container">
 	<div className="front side">
@@ -27,17 +41,14 @@ function Contact() {
             <p>Located in Renton, Washington</p>
 		</div>
 	</div>
+</div> */}
 
-</div>
-
-
-</div>
 
             </div>
 
             <div className = "contact-footer">
                     <Footer />
-                </div>  
+            </div>  
 
         </div>
     )

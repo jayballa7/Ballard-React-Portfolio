@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a63a6e198da76478fcb3d45bcd0b95b8",
+    "revision": "6ba04f68401ecd83a1f9024b2982939a",
     "url": "/Ballard-React-Portfolio/index.html"
   },
   {
-    "revision": "e66766eb6e2978ef28ce",
-    "url": "/Ballard-React-Portfolio/static/css/main.1d7a351f.chunk.css"
+    "revision": "3c832d86a172e8daea67",
+    "url": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css"
   },
   {
     "revision": "1b5c47fa5818b2f4985f",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e66766eb6e2978ef28ce",
+    "revision": "3c832d86a172e8daea67",
     "url": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js"
   },
   {
