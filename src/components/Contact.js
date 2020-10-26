@@ -18,9 +18,10 @@ function Contact() {
 
             <div className="contact-div">
                 <h1>Contact Me</h1>
-                    <p>Phone Number: 425-443-2792</p>
-                    <p>Email: jenn_ballard7@hotmail.com</p>
-                    <p>Located in Renton, Washington</p>
+                <hr className="contact-separator"></hr>
+                    <h4>Phone Number: 425-443-2792</h4>
+                    <h4>Email: jenn_ballard7@hotmail.com</h4>
+                    <h4>Located in Renton, Washington</h4>
             </div>
             
 
