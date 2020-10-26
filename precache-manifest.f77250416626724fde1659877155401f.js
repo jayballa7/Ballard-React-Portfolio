@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ba04f68401ecd83a1f9024b2982939a",
+    "revision": "24a4751e6f33e5128e21dcca7a05565c",
     "url": "/Ballard-React-Portfolio/index.html"
   },
   {
-    "revision": "3c832d86a172e8daea67",
-    "url": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css"
+    "revision": "4a922912c0730635a547",
+    "url": "/Ballard-React-Portfolio/static/css/main.552ce3a1.chunk.css"
   },
   {
-    "revision": "1b5c47fa5818b2f4985f",
-    "url": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js"
+    "revision": "92de4d199f7c3bfbe302",
+    "url": "/Ballard-React-Portfolio/static/js/2.a270032f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt"
+    "url": "/Ballard-React-Portfolio/static/js/2.a270032f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3c832d86a172e8daea67",
-    "url": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js"
+    "revision": "4a922912c0730635a547",
+    "url": "/Ballard-React-Portfolio/static/js/main.881c4ef0.chunk.js"
   },
   {
     "revision": "8abed7e04f1452eba706",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1c374c4d0114b5bc33716f03a368fcc9",
     "url": "/Ballard-React-Portfolio/static/media/rendezvous.1c374c4d.PNG"
-  },
-  {
-    "revision": "2eb266080567fdf38a59f94d5c2c9094",
-    "url": "/Ballard-React-Portfolio/static/media/space-cat.2eb26608.png"
   },
   {
     "revision": "170ffbce608215b62457c0aa87da3553",

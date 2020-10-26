@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css",
-    "main.js": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js",
-    "main.js.map": "/Ballard-React-Portfolio/static/js/main.eeef988a.chunk.js.map",
+    "main.css": "/Ballard-React-Portfolio/static/css/main.552ce3a1.chunk.css",
+    "main.js": "/Ballard-React-Portfolio/static/js/main.881c4ef0.chunk.js",
+    "main.js.map": "/Ballard-React-Portfolio/static/js/main.881c4ef0.chunk.js.map",
     "runtime-main.js": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js",
     "runtime-main.js.map": "/Ballard-React-Portfolio/static/js/runtime-main.872c0f1d.js.map",
-    "static/js/2.7997b201.chunk.js": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js",
-    "static/js/2.7997b201.chunk.js.map": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.map",
+    "static/js/2.a270032f.chunk.js": "/Ballard-React-Portfolio/static/js/2.a270032f.chunk.js",
+    "static/js/2.a270032f.chunk.js.map": "/Ballard-React-Portfolio/static/js/2.a270032f.chunk.js.map",
     "index.html": "/Ballard-React-Portfolio/index.html",
-    "precache-manifest.e7a30a2c2f997b71d6699f73e080959d.js": "/Ballard-React-Portfolio/precache-manifest.e7a30a2c2f997b71d6699f73e080959d.js",
+    "precache-manifest.f77250416626724fde1659877155401f.js": "/Ballard-React-Portfolio/precache-manifest.f77250416626724fde1659877155401f.js",
     "service-worker.js": "/Ballard-React-Portfolio/service-worker.js",
-    "static/css/main.50d937bb.chunk.css.map": "/Ballard-React-Portfolio/static/css/main.50d937bb.chunk.css.map",
-    "static/js/2.7997b201.chunk.js.LICENSE.txt": "/Ballard-React-Portfolio/static/js/2.7997b201.chunk.js.LICENSE.txt",
+    "static/css/main.552ce3a1.chunk.css.map": "/Ballard-React-Portfolio/static/css/main.552ce3a1.chunk.css.map",
+    "static/js/2.a270032f.chunk.js.LICENSE.txt": "/Ballard-React-Portfolio/static/js/2.a270032f.chunk.js.LICENSE.txt",
     "static/media/crimeradar.PNG": "/Ballard-React-Portfolio/static/media/crimeradar.9f3c5b80.PNG",
     "static/media/eatdaburger.png": "/Ballard-React-Portfolio/static/media/eatdaburger.45a95aa4.png",
     "static/media/employeetracker.png": "/Ballard-React-Portfolio/static/media/employeetracker.dea38a93.png",
     "static/media/newsflash.PNG": "/Ballard-React-Portfolio/static/media/newsflash.8daad608.PNG",
     "static/media/profile-photo.jpg": "/Ballard-React-Portfolio/static/media/profile-photo.5b425f56.jpg",
     "static/media/rendezvous.PNG": "/Ballard-React-Portfolio/static/media/rendezvous.1c374c4d.PNG",
-    "static/media/Contact.scss": "/Ballard-React-Portfolio/static/media/space-kitty-2.170ffbce.jpg",
+    "static/media/space-kitty-2.jpg": "/Ballard-React-Portfolio/static/media/space-kitty-2.170ffbce.jpg",
     "static/media/Footer.scss": "/Ballard-React-Portfolio/static/media/star-background.de2225ff.jpg",
     "static/media/weatherdashboard.PNG": "/Ballard-React-Portfolio/static/media/weatherdashboard.fb71a5cd.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.872c0f1d.js",
-    "static/js/2.7997b201.chunk.js",
-    "static/css/main.50d937bb.chunk.css",
-    "static/js/main.eeef988a.chunk.js"
+    "static/js/2.a270032f.chunk.js",
+    "static/css/main.552ce3a1.chunk.css",
+    "static/js/main.881c4ef0.chunk.js"
   ]
 }
