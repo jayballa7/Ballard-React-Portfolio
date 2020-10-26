@@ -10,8 +10,6 @@
     color: white;
     font-family: 'Dosis', sans-serif;
     display: grid;
-    // grid-template-columns: 1fr 1fr;
-    // grid-template-rows: 75vh 1fr;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 75vh 1fr;
     justify-items: center;
@@ -31,6 +29,66 @@
 .contact-separator {
     width: 50%;
     margin-bottom: 10%;
+}
+
+  @media only screen 
+  and (min-device-width : 350px) 
+  and (max-device-width : 812px)
+  and (-webkit-device-pixel-ratio : 3) {
+
+    .contact-content {
+        grid-template-columns: 1fr;
+        grid-template-rows: 40vh 35vh 5vh;
+    }
+
+    .contact-div {
+        margin-right: 0%;
+        grid-column: 1 / span 2;
+        grid-row: 1;
+    }
+
+    .space-kitty {
+        margin-left: 0%;
+        grid-column: 1 / span 2;
+        grid-row: 2;
+    }
+
+    .contact-footer {
+        width: 100%;
+        grid-column: 1;
+        grid-row: 3;
+    }
+
+  }
+
+  //iphone 6/7/8
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 667px) {
+
+    .contact-content {
+        grid-template-columns: 1fr;
+        grid-template-rows: 40vh 35vh 5vh;
+    }
+
+    .contact-div {
+        margin-right: 0%;
+        grid-column: 1 / span 2;
+        grid-row: 1;
+    }
+
+    .space-kitty {
+        margin-left: 0%;
+        grid-column: 1 / span 2;
+        grid-row: 2;
+    }
+
+    .contact-footer {
+        width: 100%;
+        grid-column: 1;
+        grid-row: 3;
+    }
+
 }
 
 // @import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
