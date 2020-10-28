@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef918d312d83e4e17e65af844d26ef92",
+    "revision": "b8c338f24bf069b2c31128b58850645b",
     "url": "/Ballard-React-Portfolio/index.html"
   },
   {

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ballard-React-Portfolio/precache-manifest.154c64232aa2079d20356d0a86b91143.js"
+  "/Ballard-React-Portfolio/precache-manifest.010927d91b50890cd01116af73e020b4.js"
 );
 
 self.addEventListener('message', (event) => {
