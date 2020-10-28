@@ -3,6 +3,8 @@ Portfolio built using Node.js and React.js.
 
 Link to my Portfolio: https://jayballa7.github.io/Ballard-React-Portfolio/
 
+![Image](portfolio-img.PNG)
+
 # Table of contents
 * general-info
 * technologies
